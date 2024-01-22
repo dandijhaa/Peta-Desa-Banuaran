@@ -1,0 +1,1 @@
+var json_SurauAlMukhlisin_13 = {"type":"FeatureCollection","name":"SurauAlMukhlisin_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Title":"Surau Al-Mukhlisin"},"geometry":{"type":"Point","coordinates":[101.734290881952674,-0.440462018959865]}}]}

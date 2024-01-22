@@ -1,0 +1,1 @@
+var json_SurauNurulIkhlas_12 = {"type":"FeatureCollection","name":"SurauNurulIkhlas_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Title":"Surau Nurul Ikhlas"},"geometry":{"type":"Point","coordinates":[101.737149921838693,-0.43890801064652]}}]}

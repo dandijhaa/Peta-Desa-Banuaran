@@ -1,0 +1,1 @@
+var json_JalanTelukKuantanRengat_17 = {"type":"FeatureCollection","name":"JalanTelukKuantanRengat_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiLineString","coordinates":[[[101.738015184493534,-0.437461718724353],[101.738516939697064,-0.437592312544451]]]}}]}
